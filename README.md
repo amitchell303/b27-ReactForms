@@ -1,19 +1,10 @@
+Permalink: https://67f04beb7aa7ac05a451f52e--fascinating-stroopwafel-0650cb.netlify.app/
 
-Permalink: https://67f04aba349fd4c73738640b--symphonious-pony-6c19b1.netlify.app/
+Question: "jwt malformed" is returned on the browser when the _Authenicate Token_ button is clicked with no email or password inputs
 
-Comments/Questions
-     - Please explain step 9 further
-     -
-     -
-
-
-# React + Vite
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+To-Do:
+    - input boxes do not return to empty upon clicking submit
+    - better formatting of form
+    - remember to reploy and update link upon fixes
+```
